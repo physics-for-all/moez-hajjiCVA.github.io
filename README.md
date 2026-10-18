@@ -1,4 +1,3 @@
-
 :root {
   --navy: #10243a;
   --navy-light: #193650;
